@@ -1,0 +1,3 @@
+C:\Users\fbdesigns\Desktop\910\3\Lab_9\x64\Debug\Lab_9.vcxprojAssemblyReference.cache
+C:\Users\fbdesigns\Desktop\910\3\Lab_9\x64\Debug\Lab_9.Form1.resources
+C:\Users\fbdesigns\Desktop\910\3\Lab_9\x64\Debug\Lab_9.vcxproj.GenerateResource.cache
